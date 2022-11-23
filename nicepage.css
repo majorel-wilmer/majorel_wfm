@@ -39282,30 +39282,32 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-text-1 {
-  margin: 14px 570px 14px 153px;
+  margin: 16px 304px 11px 419px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-text-1 {
     width: 417px;
     margin-top: -18px;
-    margin-left: 53px;
-    margin-right: 470px;
+    margin-left: 319px;
+    margin-right: 204px;
   }
 }
 @media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-left: 0;
-    margin-right: 303px;
+    margin-left: 209px;
+    margin-right: 94px;
   }
 }
 @media (max-width: 767px) {
   .u-footer .u-text-1 {
-    margin-right: 123px;
+    margin-left: 119px;
+    margin-right: 4px;
   }
 }
 @media (max-width: 575px) {
   .u-footer .u-text-1 {
     width: 340px;
+    margin-left: 0;
     margin-right: 0;
   }
 }
