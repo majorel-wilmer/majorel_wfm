@@ -335,7 +335,6 @@
 .u-section-5 .u-repeater-1 {
   grid-template-columns: calc(20% - 8px) calc(20% - 8px) calc(20% - 8px) calc(20% - 8px) calc(20% - 8px);
   grid-gap: 10px 10px;
-  grid-auto-columns: calc(20% - 8px);
   min-height: 125px;
 }
 
@@ -423,7 +422,6 @@
     grid-template-columns: calc(20% - 7.2px) calc(20% - 7.2px) calc(20% - 7.2px) calc(20% - 7.2px) calc(20% - 7.2px);
     grid-gap: 9px 9px;
     min-height: 135px;
-    grid-auto-columns: calc(20% - 7.2px);
   }
 
   .u-section-5 .u-text-1 {
@@ -547,7 +545,6 @@
   }
 
   .u-section-5 .u-repeater-1 {
-    grid-auto-columns: calc(25% - 6.75px);
     grid-template-columns: calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px) calc(25% - 6.75px);
     min-height: 117px;
   }
