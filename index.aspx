@@ -30,7 +30,7 @@
     <meta property="og:title" content="Home">
     <meta property="og:type" content="website">
   </head>
-  <body class="u-body u-overlap u-overlap-contrast u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-de7b"><div class="u-clearfix u-sheet u-sheet-1">
+  <body data-home-page="Home.html" data-home-page-title="Home" class="u-body u-overlap u-overlap-contrast u-xl-mode" data-lang="en"><header class="u-clearfix u-header u-header" id="sec-de7b"><div class="u-clearfix u-sheet u-sheet-1">
         <nav class="u-dropdown-icon u-menu u-menu-dropdown u-offcanvas u-menu-1">
           <div class="menu-collapse" style="font-size: 0.75rem; letter-spacing: 1px; font-weight: 700; text-transform: uppercase;">
             <a class="u-button-style u-custom-active-border-color u-custom-border u-custom-border-color u-custom-borders u-custom-hover-border-color u-custom-left-right-menu-spacing u-custom-padding-bottom u-custom-text-active-color u-custom-text-color u-custom-text-decoration u-custom-text-hover-color u-custom-top-bottom-menu-spacing u-nav-link u-text-active-palette-1-base u-text-hover-palette-2-base" href="#">
@@ -84,7 +84,7 @@
       </div></header>
     <section class="skrollable u-clearfix u-image u-shading u-section-1" id="sec-1f37" data-image-width="640" data-image-height="480">
       <div class="u-clearfix u-sheet u-sheet-1">
-        <h1 class="u-custom-font u-font-merriweather u-text u-text-default u-text-1"> NASEA WORKFORCE MANAGEMENT</h1>
+        <h1 class="u-align-center-md u-align-center-sm u-align-center-xs u-custom-font u-font-merriweather u-text u-text-default u-text-1"> WORKFORCE MANAGEMENT</h1>
         <blockquote class="u-custom-font u-font-merriweather u-text u-text-default u-text-2">The expert in anything was once a beginner<br>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - Helen Hayes
         </blockquote>
         <div class="u-container-style u-group u-hover-feature u-shape-rectangle u-group-1" data-href="https://nicepage.com">
@@ -157,7 +157,7 @@
             <div class="u-align-center u-container-style u-list-item u-repeater-item">
               <div class="u-container-layout u-similar-container u-valign-top-xl u-container-layout-2">
                 <h1 class="u-text u-title u-text-3" data-animation-name="counter" data-animation-event="scroll" data-animation-duration="3500">15+</h1>
-                <p class="u-text u-text-4">Site</p>
+                <p class="u-text u-text-4">Countries</p>
               </div>
             </div>
             <div class="u-align-center u-container-style u-list-item u-repeater-item">

@@ -8,14 +8,13 @@
 }
 
 .u-section-1 .u-text-1 {
-  font-size: 3.75rem;
   font-weight: 700;
-  margin: 170px auto 0;
+  margin: 193px 116px 0 auto;
 }
 
 .u-section-1 .u-text-2 {
   font-weight: 400;
-  margin: 257px auto 0;
+  margin: 234px auto 0;
 }
 
 .u-section-1 .u-group-1 {
@@ -69,7 +68,7 @@
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 1.875rem;
+    margin-right: 73px;
   }
 }
 
